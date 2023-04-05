@@ -1,5 +1,5 @@
 # Sorting Flowers using AlexNet
-<img arc ="https://cdn.shopify.com/s/files/1/1257/7487/articles/bee-flower_1024x.jpg?v=1585344606"> 
+<img src ="https://cdn.shopify.com/s/files/1/1257/7487/articles/bee-flower_1024x.jpg?v=1585344606"> 
 In this project, we will use a deep learning model called AlexNet to sort images of flowers. This model is a convolutional neural network that is known for its high accuracy in image recognition tasks.
 
 The dataset used for this project will consist of images of flowers that have been categorized into different classes based on their species. The goal is to train the model to accurately classify the flowers based on their species, which will help in the sorting process.
