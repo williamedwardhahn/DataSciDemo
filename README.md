@@ -1,5 +1,5 @@
 # Sorting Fruits using AlexNet
-<img src="https://warnertreeservice.com/wp-content/uploads/2021/08/fruittreesinflorida2-1200x675.jpeg">
+<img src="https://warnertreeservice.com/wp-content/uploads/2021/08/fruittreesinflorida2-1200x675.jpeg" width="500">
 
 
 In this project, we will use a deep learning model called AlexNet to sort images of fruits, particularly oranges. This model is a convolutional neural network that is known for its high accuracy in image recognition tasks.
